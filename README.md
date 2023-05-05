@@ -1,11 +1,11 @@
 # Software Developer
 
->HTML, CSS 
+>HTML, CSS <br>
 
->JavaScript ☕️📄 | React | Express
+>JavaScript ☕️📄 | React | Express <br>
 
->PHP 🐘 Laravel 10
+>PHP 🐘 Laravel 10 <br>
 
->MySQL
+>MySQL <br>
 
->Learning Python Machine Learning
+>Learning Python Machine Learning <br>
