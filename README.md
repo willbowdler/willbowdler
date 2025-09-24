@@ -1,11 +1,9 @@
-# Software Developer
+Will Bowdler
 
->HTML, CSS <br>
+Software Engineer
+📍 Madison, MS | ✉️ callowaybowdler@gmail.com
 
->JavaScript ☕️📄 | React | Express <br>
-
->PHP 🐘 Laravel 10 <br>
-
->MySQL <br>
-
->Learning Python Machine Learning <br>
+💻 React, TypeScript, PHP, Golang.
+⚡ Optimized TTFB at Mailchimp.
+🔄 Modernized UI w/ React 18.
+☁️ AWS/GCP certified.
